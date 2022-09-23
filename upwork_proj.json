@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "nano-degree-302122",
+  "private_key_id": "65ca2d78864d6ccfde575b874982950db5a63a6b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDAdCVHE9De3mx+\nNZVZujcxmbAxDBlPTa+wNvrc0MLTRaTbXzTPzpw+8f1zODlPM+BJl28RStf178fe\nNptkkzEbxAEyjDmUJRglqvebhpPwFRbbMNUBxKUV0iXgaCC+CxPW/oHVSMRqK0YD\nQbxK9dnpvIYI4cEJKyQ/sEBD4M84m7uNLbyGbqDtYbfYsN775fL/QAimAoGYBbSn\nwAn+qSo75AJe6mhzTulofai7vJxBoiHOOmNnD/G6C0gwwQqKYZZgJtfkcGlzw9x8\n4eXjeTQ8kT5Y6JNr6OoKbCxkM80gO4i7oiwZukdhT+GmMnYCTucsOE6dGI53ON85\nCvanBkyPAgMBAAECggEAF2AkGlGBrbL2Gjr3lH9F7pwxu+Cx1Ew7JNv7YBsVMY8v\nJRwXxePdCNeLXCrTPy0DDD08rCzbNU/gsWYQPXOUDpYh5RoGG68zvc4vJrCpGGCf\nYZPj/hknShK32ggbw1Qvc+N+2+vrkM+yayPZXdYlwo+iTMLgQkpUq/hZne+uNmby\nDBszYuLz2ssEGuR2dxmvTzUtO3QQKBelUZW3tvI1Ca1ds5jw3jrQnFAl94h7fx0O\nI72e6RIljf2VZr4dTb/Qg+4HA8VP6hXCpjeAaAf3j6UGVWA+MZba4TYwx9niCMY8\n4KEY6QloLulX8zncH1dkfFiwjuvn7trRjVioiWEYlQKBgQDm9StdXafny3z3wd+A\ni58th+zMbewV1B3JEhfuQjwRMrxg63D0DwLU0uRePIGoaXV5H4Jx0OGJjK31xwUV\n8i5puQDMbH8ldL3CVO8XAiVdePPekNwXKWUCxBXQnD9v9njIJs6LnWU5zp4BTUph\nJwXjcvUTUs4NT7i0q8pauXxvTQKBgQDVUjKeFUgcmIU2E64YBD7pPgsEJ4l8gqSv\n3zSqUA3s/wWoSqic/QvrtGkciik3GrDOtoqIukz13A8tIQJIZcIfgJZVbAAiOzoz\nDHk3qYXkqLiDPF6X5Am2RXNfYFWvJRw3hOcheGSkw33Z4CFEXeBVYZwi0BFOmdUh\ng8u/kMH1SwKBgH4HNvyhyKfSAIVqA74vclL0IyGCshtPPlmkR+65sfFokCcLEv36\n2v6rffZ2agIuWe4YZaQZ6ZiXba36Riotl2oVi/wBEHit9YZ/tmAFycHx6JGA1rjE\n29vgiE7nlC5SfqIpmvfQkZYzy0DGnlnZY3s0FcvPmaTl5dKhE7DiGqbZAoGBAKfD\ntkU27Xh3xsPppFAE/skGXzmMMoc2Y3hhLRUIUnthcLySwpp8M+TSBJxKV/GbTxOy\n4a53/dCZmWHfhOEVDh8iTJivkEdblwDQvYA2FTPoMPwc/TOtRqoPYpXOuHQ+1jsf\njXp4KYaerBouN1uCDMx5MIb8ZbAQMVrjQNjOaouTAoGAakqyqT6Ls4/FkS2TTT59\nfWWOWK22tRxtbRqAoScDJEmBSl3M9QAc0s7tPrOsVbiY9bs58lTVQ1A/27de/TzT\n+5hHpn91K2WpmhgGLJ/U+Bt0E4y8Dnk6TY95Q9OGxgAlqMwETjQElPdfhyiMp7LC\nZ12zoidjEM+PcXnAY1r0lZ4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "upwork-ben-project@nano-degree-302122.iam.gserviceaccount.com",
+  "client_id": "100696277345760721083",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/upwork-ben-project%40nano-degree-302122.iam.gserviceaccount.com"
+}
